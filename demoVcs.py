@@ -5,8 +5,10 @@ class Calculator:
         print("Difference is ",(num1 - num2))
     def multiply(num1, num2):
         print("Product is ",(num1 * num2))
-
+    def divide(num1, num2):
+        print("Quotient is ",(num1 / num2))
 
 Calculator.add(50,40)
 Calculator.minus(50,40)
 Calculator.multiply(50,40)
+Calculator.multiply(80,40)
