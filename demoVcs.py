@@ -11,4 +11,4 @@ class Calculator:
 Calculator.add(50,40)
 Calculator.minus(50,40)
 Calculator.multiply(50,40)
-Calculator.multiply(80,40)
+Calculator.divide(80,40)
