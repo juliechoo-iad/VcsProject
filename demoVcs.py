@@ -1,7 +1,6 @@
 class Calculator:
     def add(num1, num2):
         print("Sum is ",(num1+num2))
-
     def minus(num1, num2):
         print("Difference is ",(num1 - num2))
     def multiply(num1, num2):
