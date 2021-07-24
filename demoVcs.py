@@ -8,7 +8,7 @@ class Calculator:
     def divide(num1, num2):
         print("Quotient is ",(num1 / num2))
 
-Calculator.add(500,10)
+Calculator.add(5000,1000)
 Calculator.minus(50,40)
 Calculator.multiply(50,40)
 Calculator.divide(100,20)
