@@ -9,6 +9,6 @@ class Calculator:
         print("Quotient is ",(num1 / num2))
 
 Calculator.add(5000,1000)
-Calculator.minus(50,40)
+Calculator.minus(500,400)
 Calculator.multiply(50,40)
 Calculator.divide(100,20)
